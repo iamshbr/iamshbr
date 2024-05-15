@@ -110,7 +110,7 @@ I'm always open to new opportunities, collaborations, and discussions! Feel free
 
 ## ⭐ Support
 
-If you find my projects helpful or interesting, please consider starring the repository! It's a simple gesture that helps me understand which projects people are interested in and encourages further development and improvements. Your support means a lot to me! 🌟
+If you find my projects helpful or interesting, please consider starring the repository! Your support means a lot to me! 🌟
 
 Additionally, feel free to open issues or pull requests if you have any suggestions, feedback, or contributions. [My Repositories](https://github.com/iamshbr)
 
